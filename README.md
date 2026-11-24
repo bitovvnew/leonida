@@ -1,5 +1,7 @@
 # LEONIDA
 
+**[Play the live coastal drive ↗](https://bitovvnew.github.io/leonida/)**
+
 ![Causeway at dusk — LEONIDA campaign artwork](assets/causeway.webp)
 
 **Xbox Edition for PC · Winter project preview · December 22, 2026**
